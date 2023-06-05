@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -17,8 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Work in progress. I do machine learning and robot stuff I guess.
+Hi all, I'm currently an R&D Computer Engineer at NAVAIR Lakehurst where I work in the Robotics and Intelligent Systems Engineering (RISE) lab. I've been working as a researcher here since July of 2020 and in that time I've worked on a wide range of computer vision, machine learning, and robotics projects. In late 2021 I secured funding to act as the principal investigator on a research effort exploring the feasability of an autonomous robotic firefighting system for the U.S Navy and have been leading a team of other research engineers since then. At the moment, I am also currently working on research efforts for object detection and tracking using various sensor modalities, verification and validation of machine learning systems, and exploring generative models for improving the effectiveness of synthetic data in computer vision applications.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In late 2022 I took advantage of NAVAIR's rotation program and worked at the Naval Research Laboratory's (NRL) Navy Center for Applied Research in Artificial Intelligence (NCARAI) under the guidance of the [Dr. Leslie Smith](https://scholar.google.com/citations?user=pwh7Pw4AAAAJ&hl=en).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to joining NAVAIR I received my Bachelor's degree from Stevens Institute of Technology in 2020. During my time there I was a research assistant in the [QuEST](http://www.questlab.us/) and [RFAL](https://robustfieldautonomylab.github.io/index.html) labs and interned with NAVAIR several times. 
