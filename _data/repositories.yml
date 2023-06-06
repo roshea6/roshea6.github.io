@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - roshea6
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - roshea6/BlueROVKalmanFilter
+  - roshea6/CarND-Capstone
+  - roshea6/CarND-Highway-Driving
