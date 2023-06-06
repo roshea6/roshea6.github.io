@@ -152,11 +152,11 @@
         <div class="author">
         
 
-        Kyle M. Hart, Brendan Englot, Ryan P. O’Shea, and
-          <span class="more-authors" title="click to view 2 more authors" onclick="
+        Kyle M. Hart, Brendan Englot, Ryan P. O’Shea, John D. Kelly, and
+          <span class="more-authors" title="click to view 1 more author" onclick="
                 var element = $(this);
                 element.attr('title', '');
-                var more_authors_text = element.text() == '2 more authors' ? 'John D. Kelly, David Martinez' : '2 more authors';
+                var more_authors_text = element.text() == '1 more author' ? 'David Martinez' : '1 more author';
                 var cursorPosition = 0;
                 var textAdder = setInterval(function(){
                   element.text(more_authors_text.substring(0, cursorPosition + 1));
@@ -164,7 +164,7 @@
                     clearInterval(textAdder);
                   }
               }, '10');
-              ">2 more authors</span>
+              ">1 more author</span>
 </div>
 
         <!-- Journal/Book title and date -->
