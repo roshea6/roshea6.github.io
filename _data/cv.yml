@@ -29,11 +29,8 @@
       year: 2020-Present
       description:
         - Researcher in the Robotics and Intelligent Systems Engineering (RISE) lab
-        - description: Worked on a variety of computer vision, machine learning, and robotics projects focused on meeting U.S Navy Fleet needs
-          - Object detection and tracking
-          - Validation and verification techniques
-          - Synthetic data
-          - System automation
+        - Worked on a variety of computer vision, machine learning, and robotics projects focused on meeting U.S Navy Fleet needs
+        - Research focuses | Object detection and tracking, Validation and verification techniques, Synthetic data, System automation
         
     - title: Research Assistant in Robust Field Autonomy (RFAL) Lab
       institution: Stevens Institute of Technology, Hoboken, NJ 
