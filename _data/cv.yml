@@ -9,9 +9,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor's
+    - title: Bachelor's Degree
       institution: Stevens Institute of Technology, Hoboken, NJ
-      year: 2023
+      year: 2020
       description:
         - Graduated with a Bachelor's of Engineering in Computer Engineering with High Honors
     - title: Udacity Nanodegrees
@@ -68,7 +68,6 @@
       items:
         - Harry Heffes Award For Outstanding studies in Mathematics, Modeling, and Simulation
         - Stevens Mechanical Engineering Department Best Senior Design Project Award
-      items:
     - year: 2019
       items: 
         - Eta Kappa Nu Honor Society
