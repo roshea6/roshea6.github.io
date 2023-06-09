@@ -271,7 +271,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags wil
 scholar:
 
   last_name: [O'Shea, Oshea]
-  first_name: [Ryan, R, R.P, RP]
+  first_name: []
 
   style: apa
   locale: en
