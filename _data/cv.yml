@@ -87,13 +87,17 @@
   contents:
     - title: Computer Vision
       items: 
-        - Object Detection
-        - Domain and domain drift identification
+        - Domain indentification and domain drift detection
         - Image to image translation
+        - Generative models
+        - Synthetic data
+    - title: Machine Learning
+      items:
+        - Validation and verification techniques
     - title: Robotics
       items:
-        - Automation of dangerous tasks
-        - Robot perception
+        - State estimation and localization
+        - Hazardous environment robots
 
 - title: Other Interests
   type: list
