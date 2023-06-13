@@ -21,6 +21,4 @@ Hi all, I'm currently an R&D Computer Engineer at NAVAIR Lakehurst where I work 
 
 In late 2022 I took advantage of NAVAIR's rotation program and worked at the Naval Research Laboratory's (NRL) Navy Center for Applied Research in Artificial Intelligence (NCARAI) for several months alongside [Dr. Leslie Smith](https://scholar.google.com/citations?user=pwh7Pw4AAAAJ&hl=en).
 
-Prior to joining NAVAIR I received my Bachelor's degree from Stevens Institute of Technology in 2020. During my time there I was a research assistant in the [QuEST](http://www.questlab.us/) and [RFAL](https://robustfieldautonomylab.github.io/index.html) labs and interned with NAVAIR several times. 
-
-Also, this site is very much a work in progress so please forgive any unfinished sections :grin:
+Prior to joining NAVAIR I received my Bachelor's degree from Stevens Institute of Technology in 2020. During my time there I was a research assistant in the Quantum Enhanced Systems and Technology ([QuEST](http://www.questlab.us/)) and Robust Field Autonomy ([RFAL](https://robustfieldautonomylab.github.io/index.html)) Labs. I also interned with NAVAIR several times and worked in 4 of their labs across my internships. 
