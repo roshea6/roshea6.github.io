@@ -3,8 +3,8 @@ layout: page
 permalink: /publications/
 title: Publications
 description: 
-years: [2023, 2021]
-presentation-years: [2023, 2022]
+years: [2024, 2023, 2021]
+presentation-years: [2024, 2023, 2022]
 nav: true
 nav_order: 1
 ---
