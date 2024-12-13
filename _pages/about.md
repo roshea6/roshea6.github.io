@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: waterfall_pic.jpg
+  image: devils_eye_pic.JPG
   image_circular: false # crops the image to make it circular
   address: >
     <p>New Jersey</p>
